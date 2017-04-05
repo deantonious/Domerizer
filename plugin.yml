@@ -1,0 +1,9 @@
+name: Domerizer
+main: es.deantonious.domegenerator.DomeGenerator
+author: [deantonious]
+description: Dome Generator
+version: 1.5
+commands:
+   domerize:
+      description: Dome generator.
+      usage: /<command> <id> <size>
